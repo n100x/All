@@ -1,5 +1,7 @@
 All
  
+ © itsN1X 
+ 
 - # N100x - ProjectsA colloquium of web application development projects | N1X - N100x 
 
 
